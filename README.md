@@ -25,10 +25,9 @@ $ find /opt/oomox/plugins -name change.color.sh
 
 ## Example
 
-Here's an example how to generate an oomox theme with numix incons using the morio color scheme.
+Here's an example how to generate an oomox theme with numix icons using the morio color scheme.
 
 ```
 $ /opt/oomox/plugins/theme_oomox/gtk-theme/change_color.sh output/oomox/default/base16-morio -o morio
-
 $ /opt/oomox/plugins/icons_numix/change_color.sh output/oomox/default/base16-morio -o morio
 ```
