@@ -1,0 +1,6 @@
+default:
+    extension:
+    output: default
+plugin:
+    extension:
+    output: plugin
